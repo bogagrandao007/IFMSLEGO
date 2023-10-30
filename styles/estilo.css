@@ -1,0 +1,16 @@
+.um{
+	width: 20%;
+	height: 10vh;
+	background-color: red;
+
+}
+.dois{
+	width: 50%;
+	height: 15vh;
+	background-color: blue;
+}
+.três{
+	width: 100%;
+	height: 15vh;
+	background-color: green;
+}
